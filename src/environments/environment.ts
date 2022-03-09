@@ -5,7 +5,7 @@
 export const environment = {
   production: false,
   // apiUrl: 'http://localhost:1396',
-  apiUrl: 'http://taxiapi.iranbarnet.com',
+  apiUrl: '###',
 };
 
 /*
