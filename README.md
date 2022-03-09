@@ -1,4 +1,4 @@
-# About Project
+# About Project [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=FarCodeHub_TaxiOnline-App&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=FarCodeHub_TaxiOnline-App)
 Online taxi for enterprise transport system. developed by Ionic 5 and angular. using firebase push notification service and neshan Gis Api.
 This project includes both rider and driver application in one app.
 
